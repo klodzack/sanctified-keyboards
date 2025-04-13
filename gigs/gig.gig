@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<GIGRACK activeRackSpace="3" gbpm="132.3283386230469" gtimeNum="4" gtimeDen="4"
+<GIGRACK activeRackSpace="0" gbpm="132.3283386230469" gtimeNum="4" gtimeDen="4"
          gTranspose="0" version="5.0" scriptWindowPos="1109 423 602 428"
          globalStereoCount="3" globalPanelVisible="0">
   <SCRIPT_CONTENT></SCRIPT_CONTENT>
@@ -66,7 +66,7 @@
                prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" prop_dbl_x="0.13134765625000000000"
                prop_dbl_y="0.20434570312500000000" prop_int_uiLastX="211" prop_int_uiLastY="389"
                cmp="1">
-      <PLUGIN name="MIDI In (Others)" descriptiveName="MODX-1" format="Internal"
+      <PLUGIN name="MIDI In (Modx)" descriptiveName="MODX Port 1" format="Internal"
               category="MIDI IN Processor" manufacturer="Deskew Technologies, LLC"
               version="1.0" file="424242" uid="67932" isInstrument="0" fileTime="0"
               infoUpdateTime="0" numInputs="0" numOutputs="0" isShell="0" isEnabled="1"
@@ -77,7 +77,7 @@
                prop_int_uiLastX="228" prop_int_uiLastY="475" prop_dbl_x="0.08544921875000000000"
                prop_dbl_y="0.20532226562500000000" prop_int_MaxInputPins="256"
                prop_int_MaxOutputPins="256" cmp="1">
-      <PLUGIN name="MIDI In (Others)" descriptiveName="MODX-1" format="Internal"
+      <PLUGIN name="MIDI In (Modx)" descriptiveName="MODX Port 1" format="Internal"
               category="MIDI IN Processor" manufacturer="Deskew Technologies, LLC"
               version="1.0" file="424242" uid="67932" isInstrument="0" fileTime="0"
               infoUpdateTime="0" numInputs="0" numOutputs="0" isShell="0" isEnabled="1"
@@ -99,7 +99,7 @@
                prop_int_uiLastX="331" prop_int_uiLastY="250" prop_dbl_x="0.12548828125000000000"
                prop_dbl_y="0.25830078125000000000" prop_int_MaxInputPins="256"
                prop_int_MaxOutputPins="256" cmp="1">
-      <PLUGIN name="MIDI Out" descriptiveName="MODX Port 1" format="Internal"
+      <PLUGIN name="MIDI Out (MODX Port 1)" descriptiveName="MODX Port 1" format="Internal"
               category="MIDI OUT Processor" manufacturer="Deskew Technologies, LLC"
               version="1.0" file="434343" uid="6a0a7" isInstrument="0" fileTime="0"
               infoUpdateTime="0" numInputs="0" numOutputs="0" isShell="0" isEnabled="1"
@@ -121,7 +121,7 @@
                prop_int_uiLastX="-935" prop_int_uiLastY="668" prop_dbl_x="0.04663085937500000000"
                prop_dbl_y="0.23364257812500000000" prop_int_MaxInputPins="256"
                prop_int_MaxOutputPins="256" cmp="1">
-      <PLUGIN name="MIDI In (Others)" descriptiveName="MODX-1" format="Internal"
+      <PLUGIN name="MIDI In (Modx)" descriptiveName="MODX Port 1" format="Internal"
               category="MIDI IN Processor" manufacturer="Deskew Technologies, LLC"
               version="1.0" file="424242" uid="67932" isInstrument="0" fileTime="0"
               infoUpdateTime="0" numInputs="0" numOutputs="0" isShell="0" isEnabled="1"
@@ -132,7 +132,7 @@
                prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" prop_dbl_x="0.17236328125000000000"
                prop_dbl_y="0.20410156250000000000" prop_int_uiLastX="-862" prop_int_uiLastY="680"
                cmp="1">
-      <PLUGIN name="MIDI In (Others)" descriptiveName="MODX-1" format="Internal"
+      <PLUGIN name="MIDI In (Modx)" descriptiveName="MODX Port 1" format="Internal"
               category="MIDI IN Processor" manufacturer="Deskew Technologies, LLC"
               version="1.0" file="424242" uid="67932" isInstrument="0" fileTime="0"
               infoUpdateTime="0" numInputs="0" numOutputs="0" isShell="0" isEnabled="1"
@@ -154,7 +154,7 @@
                prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" prop_dbl_x="0.21557617187500000000"
                prop_dbl_y="0.20361328125000000000" prop_int_uiLastX="-862" prop_int_uiLastY="680"
                cmp="1">
-      <PLUGIN name="MIDI In (Others)" descriptiveName="MODX-1" format="Internal"
+      <PLUGIN name="MIDI In (Modx)" descriptiveName="MODX Port 1" format="Internal"
               category="MIDI IN Processor" manufacturer="Deskew Technologies, LLC"
               version="1.0" file="424242" uid="67932" isInstrument="0" fileTime="0"
               infoUpdateTime="0" numInputs="0" numOutputs="0" isShell="0" isEnabled="1"
@@ -434,7 +434,7 @@
                prop_int_uiLastX="143" prop_int_uiLastY="446" prop_dbl_x="0.18115234375000000000"
                prop_dbl_y="0.18041992187500000000" prop_int_MaxInputPins="256"
                prop_int_MaxOutputPins="256" cmp="1">
-      <PLUGIN name="MIDI Out" descriptiveName="MODX Port 1" format="Internal"
+      <PLUGIN name="MIDI Out (MODX Port 1)" descriptiveName="MODX Port 1" format="Internal"
               category="MIDI OUT Processor" manufacturer="Deskew Technologies, LLC"
               version="1.0" file="434343" uid="6a0a7" isInstrument="0" fileTime="0"
               infoUpdateTime="0" numInputs="0" numOutputs="0" isShell="0" isEnabled="1"
@@ -681,8 +681,9 @@
     <PROCESSORSTATE_IN handle="" gpscript="0" osc="0" x="0.2745361328125" y="0.00732421875">273.VMjLgfP....OPwTUGkjSSQUPTUDHig1WvziHw3BLh.Ra0QWYeMFZeASOh.iHfLFZeESOhDiKvHBHsUGck80Xn8UL8HBLh.xXn8kL8HRLt.iHfzVczU1Wig1WxziHvHBHig1WyziHw3BLh.Ra0QWYeMFZeMSOh.iHfLFZeQSOhDiKvHBHsUGck80Xn8EM8HBLh.xXn8UM8HRLt.iHfzVczU1Wig1W0ziHvHBHig1W1ziHw3BLh.Ra0QWYeMFZeYSOh.iHfLFZecSOhDiKvHBHsUGck80Xn80M8HBLh.xXn8EN8HRLt.iHfzVczU1Wig1W3ziHvHBHig1W4ziHw3BLh.Ra0QWYeMFZekSOh.iHu3C.</PROCESSORSTATE_IN>
     <PROCESSORSTATE_OUT handle="" gpscript="0" osc="0" x="0.29931640625" y="0.134521484375">123.VMjLgHG....OPwTUGkjSSQUPTUDHig1WvziHw3BLh.Ra0QWYeMFZeASOh.iHfLFZeESOhDiKvHBHsUGck80Xn8UL8HBLh.xXn8kL8HRLt.iHfzVczU1Wig1WxziHvHBHig1WyziHw3BLh.Ra0QWYeMFZeMSOh.iHu3C.</PROCESSORSTATE_OUT>
     <PROCESSOR id="3" bypass="0" bypassSmoothing="0" prop_str_nodeName="MIDI In (OMNI)"
-               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" prop_dbl_x="0.14038085937500000000"
-               prop_dbl_y="0.01953125000000000000" cmp="1">
+               prop_int_MaxInputPins="256" prop_int_MaxOutputPins="256" prop_dbl_x="0.14086914062500000000"
+               prop_dbl_y="0.01928710937500000000" prop_int_uiLastX="477" prop_int_uiLastY="361"
+               cmp="1">
       <PLUGIN name="MIDI In (OMNI)" descriptiveName="OMNI" format="Internal"
               category="MIDI IN Processor" manufacturer="Deskew Technologies, LLC"
               version="1.0" file="424242" uid="67932" isInstrument="0" fileTime="0"
@@ -721,20 +722,20 @@
       <PROCESSORSTATEZ>79.3o8ByYiTzAFXfAaBvmPc2S+BNDGCwUEROwLyyVkLPOKszBKMyRyLzDSMvTyMybKTRgjRLmDyK4TAIooJoPtkVRpoXqRFpj91w...RFiDR.</PROCESSORSTATEZ>
     </PROCESSOR>
     <PROCESSOR id="7" bypass="0" bypassSmoothing="0" prop_str_nodeName="Scriptlet"
-               prop_int_uiLastX="338" prop_int_uiLastY="174" prop_dbl_x="0.16479492187500000000"
+               prop_int_uiLastX="338" prop_int_uiLastY="174" prop_dbl_x="0.16503906250000000000"
                prop_dbl_y="0.08496093750000000000" prop_int_MaxInputPins="256"
                prop_int_MaxOutputPins="256" cmp="1">
       <PLUGIN name="Scriptlet" format="Internal" category="MIDI Utility" manufacturer="Deskew Technologies, LLC"
               version="1.0" file="424272" uid="6793c" isInstrument="0" fileTime="0"
               infoUpdateTime="0" numInputs="0" numOutputs="1" isShell="0" isEnabled="1"
               useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
-      <PROCESSORSTATEZ>200.3occP1sBBBDDE1tUn2gstxf.stLVWvjkPvTwc0akEc5GRWCUrW+TwJKHFXF3v7cFNSr81E3YJJ3.2nCNdLtEmh1mWldKRdQHyxgLZKHapMWZrjfY1gNA7DaeON0iSZEUnTQ5EHyqrA1g56Gg5ZwYXtZe4KGz7kClnU70JqlqhlfiLQEpTY1TtSm9KHCjcXOz9XvaYWQCToEBWkcy6UPiU8naiFLEZMZigQGZ2kw5+juW4MhQCShsBcr16RY5Dr9j2EQ4IXr9kMH</PROCESSORSTATEZ>
+      <PROCESSORSTATEZ>195.3occPFzBBBDDE1tt+J17jBAZ0sPETYIDLUbW6ZrniYjtFpX+8KEkrftLC7d78FdyY2cq2uRRxHxO4nW.kYyHXmx5z6IhBtHqDxH8fnq0TVW1xf5F6Ewt3FFvHALqddCNkmV.YA0cvA7v7Dz1xuBHDJTLJDJFSPo5KeUDdAJ1DWgHhrOP44+ihBh2LOU9POq5y6fFkX3l389QCzY2Nk0D9RlM3s55pCG0P6mZMWyDJI9xY6XOaGeBUyxPawWxR5kwfWVA</PROCESSORSTATEZ>
     </PROCESSOR>
-    <PROCESSOR id="8" bypass="0" bypassSmoothing="0" prop_str_nodeName="MIDI Out (MODX-1)"
+    <PROCESSOR id="8" bypass="0" bypassSmoothing="0" prop_str_nodeName="MIDI Out (MODX Port 1)"
                prop_int_uiLastX="245" prop_int_uiLastY="190" prop_dbl_x="0.16235351562500000000"
                prop_dbl_y="0.13574218750000000000" prop_int_MaxInputPins="256"
                prop_int_MaxOutputPins="256" cmp="1">
-      <PLUGIN name="MIDI Out (MODX-1)" descriptiveName="MODX-1" format="Internal"
+      <PLUGIN name="MIDI Out (MODX Port 1)" descriptiveName="MODX Port 1" format="Internal"
               category="MIDI OUT Processor" manufacturer="Deskew Technologies, LLC"
               version="1.0" file="434343" uid="6a0a7" isInstrument="0" fileTime="0"
               infoUpdateTime="0" numInputs="0" numOutputs="0" isShell="0" isEnabled="1"
@@ -742,7 +743,7 @@
       <PROCESSORSTATEZ>853.3ocYW1saSCDDEtuA7JTxC.ry9+hJUBh.TknkHZfaiLEqVKRbhhcD73SHj5y3iual0I46yIdNix2mae4adwEWb0hO+sOcyc2u7cK+vk6p1WsY9byamYdkY1ysx3V63V23V+31v31331z31731BoAqE4kPhIjYBolPtIjbBYmP5IjeVxOK+8F4mk7yR9YI+rjeVxOK4mk7yQ94H+b7OrjeNxOG4mi7yQ94H+bjedxOO4mm7yyO4Q94I+7jedxOO4mm7KP9EH+BjeAxu.OZP9EH+BjeAxu.4Wj7KR9EI+hjeQxuHO6R9EI+hjeQxuD4Wh7KQ9kH+RjeIxuDGtP9kH+RjeYxuL4Wl7KS9kI+xjeYxuLm9Q9kI+JjeExuB4Wg7qP9UH+JjeExuBGOOIelCnMbBsginMbFsgCoMbJsgioMbNsgCpMroSWkvlNYYxjsISVmLYexjEJS1nLYkBuSQ3kJhcxVO1TduhvKVDdyhvqVjgcKyeppssd8cG17i58mO61pcua85kaOesym905t59uzd+ua5e3o2NSN8JaZuaae8v66O+u6z0Vtupsa21tSWML6xt51etX9wl+W99p1ecpY2CK2d+wCN07iimd68uen9ymq2U00s7o8Gto8gsaZZe77GTSaW+9Capa6WTczp6p1bj1rKuY33O1rt94Sus4mMe4P+G9S+9paq65pdrt634We0t0Gdroc0ouap6q2uZcSW+kKV87OMKVICU1y2cKV4NeesXke3pggp3PUZnJOTUvmrBBnL7z4wRGJAHAjDfR.KAvDPyBZV08DnYAMKnYAMKnYAMKnYAMGn4.MGn4.MGn4.MGn4.MGn4.MOn4AMOn4AMOn4AMOn4AMOn4As.nE.s.nE.sf5ADPK.ZAPK.ZAPKBZQPKBZQPKBZQ0yifVDzhfVDzRfVBzRfVBzRfVBzRpG+AsDnk.sLnkAsLnkAsLnkAsLnkUSafVFzJfVAzJfVAzJfVAzJfVAzJpga8zsZ71nluMpAbiZB2nFwMpYbiZH2nlxMpwbih6nXEEWcvhNYQGsnyVzgK5zEc7hJeQTALhUmmo3pxXDUHinRYDULinxYDUPinRZDUTinxZDmNHUwUE2H+Ku4eY5u95qds5OKe8E+E+Ustt.</PROCESSORSTATEZ>
     </PROCESSOR>
     <PROCESSOR id="9" bypass="0" bypassSmoothing="0" prop_str_nodeName="MIDI Channel Constrainer"
-               prop_int_uiLastX="8" prop_int_uiLastY="42" prop_dbl_x="0.16430664062500000000"
+               prop_int_uiLastX="8" prop_int_uiLastY="45" prop_dbl_x="0.16455078125000000000"
                prop_dbl_y="0.11352539062500000000" prop_int_MaxInputPins="256"
                prop_int_MaxOutputPins="256" cmp="1">
       <PLUGIN name="MIDI Channel Constrainer" format="Internal" category="MIDI Utility"
@@ -750,7 +751,7 @@
               uid="6793c" isInstrument="0" fileTime="0" infoUpdateTime="0"
               numInputs="0" numOutputs="1" isShell="0" isEnabled="1" useDelayedLoading="0"
               explicitWidgetRefresh="0" b64UserKeywords=""/>
-      <PROCESSORSTATEZ>98.3o8ByYiTrTFXfAaBvmPc2S+BNDGCwUE7LuBJsDmyHw7xK0brUICzy.kTv+RKAUwLzXv.SLvHKL2HCrvLkTvobxO4rcLGX5HnTyMwBfqACAaH4lWl9leJoBQE5aGC.TsNivB</PROCESSORSTATEZ>
+      <PROCESSORSTATEZ>98.3o8ByYiTrLFXfAaBvmPc2S+BNDGCwUE7LuBJsDmyHw7xK0brUICzy.kTv+RKAMwLCLvbCLzDiMy.SLxBkTvobxO4rcLGXZInTyMwBfqCCAaJ4lWl9leJoBQE5aGC.fe.ivF</PROCESSORSTATEZ>
     </PROCESSOR>
     <PROCESSOR id="10" bypass="0" bypassSmoothing="0" prop_str_nodeName="Lower"
                prop_int_uiLastX="1106" prop_int_uiLastY="314" prop_dbl_x="0.16479492187500000000"
@@ -762,55 +763,16 @@
               useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
       <PROCESSORSTATEZ>272.3oceQssZCBDD09peEayCECD7VDRZpQPkkVA6FwK40fTGikp6R003uS+T6pooIzG5.yBmYly4LC6dey6+5NII6nvrmCHIotoXjWM6sOxnU4zhZn.eBn7tsyzmghxayaH8M5Bj5u37FPTHjMf764rxxqyYLN2x0FONElqsVYYs7FZh9u79wpK7brS7iChRO3uijhIoNmxakQhnlMn7vm8L9SWc4LdNZyY4.NzhzUUMLWg1hzmnUIz9Gd2Xy+RT7JKuihHLNLc3JMal.uBcc4Gg4BgCJQd.e..5XiNEw1s.0rXxtw9oU.cx+DfVPDqdyXULsPVj1Z+4FubyYI33C6ciCb8BwIZN1Z27k3H8M3lZ9QM</PROCESSORSTATEZ>
     </PROCESSOR>
-    <PROCESSOR id="12" bypass="0" bypassSmoothing="0" prop_str_nodeName="MIDI Transposer"
-               prop_int_uiLastX="428" prop_int_uiLastY="744" prop_dbl_x="0.10131835937500000000"
-               prop_dbl_y="0.08618164062500000000" prop_int_MaxInputPins="256"
-               prop_int_MaxOutputPins="256" cmp="1">
-      <PLUGIN name="MIDI Transposer" format="Internal" category="MIDI Utility"
-              manufacturer="Deskew Technologies, LLC" version="1.0" file="428252"
-              uid="688dc" isInstrument="0" fileTime="0" infoUpdateTime="0"
-              numInputs="0" numOutputs="1" isShell="0" isEnabled="1" useDelayedLoading="0"
-              explicitWidgetRefresh="0" b64UserKeywords=""/>
-      <PROCESSORSTATEZ>56.3o8ByYiTTcFXfAaBvmPc2S+BNDGCwUEBHdCrUICzyDSMxbSM0BKsvHiM2HirvDkz2NF..HfVJvC</PROCESSORSTATEZ>
-    </PROCESSOR>
-    <PROCESSOR id="14" bypass="0" bypassSmoothing="0" prop_str_nodeName="MIDI Channel Constrainer (1)"
-               prop_int_uiLastX="395" prop_int_uiLastY="153" prop_dbl_x="0.11669921875000000000"
-               prop_dbl_y="0.10351562500000000000" prop_int_MaxInputPins="256"
-               prop_int_MaxOutputPins="256" cmp="1">
-      <PLUGIN name="MIDI Channel Constrainer" format="Internal" category="MIDI Utility"
-              manufacturer="Deskew Technologies, LLC" version="1.0" file="424252"
-              uid="6793c" isInstrument="0" fileTime="0" infoUpdateTime="0"
-              numInputs="0" numOutputs="1" isShell="0" isEnabled="1" useDelayedLoading="0"
-              explicitWidgetRefresh="0" b64UserKeywords=""/>
-      <PROCESSORSTATEZ>98.3o8ByYiTrLFXfAaBvmPc2S+BNDGCwUE7LuBJsDmyHw7xK0brUICzy.kTv+RKAMwLCLvbCLzDiMy.SLxBkTvobxO4rcLGXZInTyMwBfqCCAaJ4lWl9leJoBQE5aGC.fe.ivF</PROCESSORSTATEZ>
-    </PROCESSOR>
-    <PROCESSOR id="15" bypass="0" bypassSmoothing="0" prop_str_nodeName="MIDI Transposer (1)"
-               prop_int_uiLastX="428" prop_int_uiLastY="744" prop_dbl_x="0.17578125000000000000"
-               prop_dbl_y="0.09814453125000000000" prop_int_MaxInputPins="256"
-               prop_int_MaxOutputPins="256" cmp="1">
-      <PLUGIN name="MIDI Transposer" format="Internal" category="MIDI Utility"
-              manufacturer="Deskew Technologies, LLC" version="1.0" file="428252"
-              uid="688dc" isInstrument="0" fileTime="0" infoUpdateTime="0"
-              numInputs="0" numOutputs="1" isShell="0" isEnabled="1" useDelayedLoading="0"
-              explicitWidgetRefresh="0" b64UserKeywords=""/>
-      <PROCESSORSTATEZ>56.3o8ByYiTTcFXfAaBvmPc2S+BNDGCwUEBHdCrUICzyDSMxbSM0BKsvHiM2HirvDkz2NF..HfVJvC</PROCESSORSTATEZ>
-    </PROCESSOR>
     <CONNECTION srcID="1" srcChannel="2" dstID="4" dstChannel="1"/>
     <CONNECTION srcID="1" srcChannel="3" dstID="4" dstChannel="0"/>
     <CONNECTION srcID="3" srcChannel="4096" dstID="10" dstChannel="4096"/>
-    <CONNECTION srcID="3" srcChannel="4096" dstID="12" dstChannel="4096"/>
-    <CONNECTION srcID="3" srcChannel="4096" dstID="14" dstChannel="4096"/>
     <CONNECTION srcID="4" srcChannel="0" dstID="5" dstChannel="0"/>
     <CONNECTION srcID="4" srcChannel="1" dstID="5" dstChannel="1"/>
     <CONNECTION srcID="5" srcChannel="0" dstID="2" dstChannel="0"/>
     <CONNECTION srcID="5" srcChannel="1" dstID="2" dstChannel="1"/>
     <CONNECTION srcID="7" srcChannel="4096" dstID="9" dstChannel="4096"/>
-    <CONNECTION srcID="7" srcChannel="4096" dstID="15" dstChannel="4096"/>
     <CONNECTION srcID="9" srcChannel="4096" dstID="8" dstChannel="4096"/>
     <CONNECTION srcID="10" srcChannel="4096" dstID="7" dstChannel="4096"/>
-    <CONNECTION srcID="12" srcChannel="4096" dstID="14" dstChannel="4096"/>
-    <CONNECTION srcID="14" srcChannel="4096" dstID="8" dstChannel="4096"/>
-    <CONNECTION srcID="15" srcChannel="4096" dstID="9" dstChannel="4096"/>
     <RACKVIEW>
       <RACKUNIT size="11" style="0" color="ff4682b4" ver="5.0"/>
     </RACKVIEW>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<GIGRACK activeRackSpace="2" gbpm="124.7118606567383" gtimeNum="4" gtimeDen="4"
+<GIGRACK activeRackSpace="3" gbpm="124.7118606567383" gtimeNum="4" gtimeDen="4"
          gTranspose="0" version="5.0" scriptWindowPos="1109 423 602 428"
          globalStereoCount="3" globalPanelVisible="1">
   <SCRIPT_CONTENT></SCRIPT_CONTENT>
@@ -803,7 +803,7 @@
               version="1.0" file="424272" uid="6793c" isInstrument="0" fileTime="0"
               infoUpdateTime="0" numInputs="0" numOutputs="1" isShell="0" isEnabled="1"
               useDelayedLoading="0" explicitWidgetRefresh="0" b64UserKeywords=""/>
-      <PROCESSORSTATEZ>892.3ocsWssiZCCDcelW5ufKOTAUorIN2aAj.D6Jj1kEAAdckKXAzMjzlKrc62T+HqiCfsyktrzzHP.d3LmyLdlwxKF.e+ue2UW0dxcyucz3YN8bFB565u7o4daPdqbwqFtG6EE1otbcvDT.Z233cxje0xRQyN4wzPQm7c3QyncXh86QgQ3fE9tw6vLfJI.0jgxjGExKUcKYUNfD68QggfYu3EsAjEMjhVyhhV0BZAMMM3PSr2aSIXUSvZXKmnXKMSMEnhrMGVh8acKmZMJbScZDaKqYnB0M4fSr2Onb35TkCsRQCgZVpV7wMw9f.zudoD3FT35z.WVCZqnqpowA2PD9TTzVeFZSp1UUooMCnBjnddzD6K72tDWB4VIv0sURfCk0kUIa4VbvsRH+kvHjaINvl5.cEZp2PwTwjj.3b.w9MnUD5iB15sN7H9tsmMX5nINON3gwNCG6zcOJnFf7bpzpwG9QrezW3K0RWoI3yfA9dQa8h8iCSYBS9OfNfawQLKSBv62R9bAxMF23jeZRoIoPjFPLlxUaxniwgbqVJPyTplE+0.j2ZrHQ7dNkqdaxvTl53KiGlWSYgVfmgn7E8WFWB99PBLnfLXPEkBCxQGsCHCc4aptL5D7cV5nsaEPHc8+kBxLTjxKsUMSXlu88xBSAeeLLos14xq4a3uzLqf+SIMYbvgoALNKXFwkQon2aVq1MwdKI4WOv7uuBEgO0d1HUMyvdqF6+LY9vS3jsp.e2AaRb683vPzZ7ve1vThMUB7QvHuHG+ab8QQh85R.qlM+Rsgdqp8fGSyTYk5xUfcnnkaHZSX9CUG4UWhixp9CM8Ug14leHATNekyvwoaltJR0rwGUgvEGFIAfmu1EfxIeAAVTDvlHUIkMAhQf5antInjBmfWIBXiaphHPbjIwFj7NyDMIfdRb8+gqFJsj+T1QnR.iyOSJ3VtLoPh5s5JpN9aNK61BanbUrsHNhWBXd9oCAnbQff.KtvhMiuZJsDOyPBX+V1TE.KrSHHyhhDtiNph.IyIQR.syONDwxEFhZrviHbcOn9hOvqnCRJYLcIy9JYfRIEzkVkTV.85YmSIb9.hF1GviHIj8jEKzd6qyb0iiWEY9rgSebQuoi50+tgy3NnibgWmdOWW3P6N0G6zqS8r89IKuVX4z+62dhrnPO1Amdc21Wyc87tW8Gc5WOcB</PROCESSORSTATEZ>
+      <PROCESSORSTATEZ>886.3ocsW00aZCCEsOyK6ufGOLASYzDmuWAj.DsBoVJBB7ZkGXArFR1xGz18eY+WmiCEamOVorrHUUU6btmy85683lECfe72e3hKZO4142LZ7LmdNCA8c8W93buMHuUt3UC2i8hB6TWtNXBJ.sab7N4N0UZc7uQ6vjEtCEFgCV36FuCydSEBtVZ1l1IO51ZFVVZPNfj86iBCAydwKZCHKZHEslkL4QQ0BZAMMM3PS1u2lRvplf0vVNgXKMSMEnhrMGVx923VN0ZT3l5TgaKqYnB0M4fS1ueP4v0oJGZkhFB0rTsT4fS1eP.5WuTBbCJbcZhKqAsUzU0z3faHBeJJZqOCsIU6ppzxlATARTOOZx9K72tDWB4VIv0sURfCk0kUssMs3fakP9KgQH2RBfMkeHs1YYp.0UsM3qcj8uFshPeTvVu0guhua6YClNZhyCCteryvwNc2iBpAHOGasZ7oeF6GcEeqV5JMAeELv2KZqWrebXJSXx6.5.tAGw1YR.d+VxuWfbiwMNFmlTZRZDoIDiob8lL5XbH2pkBzLkpYweK.4sFKRDejS4p2lLLkoO973gE0TVnM3YHJeS+4wkPrOT.CJnBFTQkvfbzQm.xPW9gpyiNgXmkN53VADRW+eogLCEo7RGUyjl4GeOuzTH1ullzQ6b007C7makUH9ojlXGbvMfwYAdDmGkhQuYsZWG6sjTe8.y+wJTD933YiT0LC6sZr+SD+gGwIGUA9tC1jD16vggn03gO2vTh4JA9LXjWji+0t9nHwYcIfUylWUan2pZ26wzLUVogbEXGJZ4Fh1D7en5Hu5RBTV0eXnuJzNm+gDP4zUNCGmtY5pHUyrOpBgKZFIAfmt1EfxIeAAVTFvbjpj1l.wLP8cz2DTRiSvajAL6lpHCDsLI6AI+jwQSBnmjW+e3pA4+I8KYsPk.FmdkTHrbURgB06MTTc72BV1iElobUbrHZwKALO8xg.TtLPPfE2Xw73qlVKw6Lj.1umCUAvBmDBxrnLg6pipHQxbSjDP6zyCQrbognFK7JBW2Cpu3K7J5hjRroKw6qDCkRZnKsKorD5sqNGK37IDMsOfGQJH6IKV39suLymd75mhLe1voOrn2zQ85e6vYbWzQ9fWmdOUW3R6N0G6zqS8ry9IKuVX4z286ORVTXF6PPura6K49d7tW7GL8uNCC</PROCESSORSTATEZ>
     </PROCESSOR>
     <PROCESSOR id="38" bypass="0" bypassSmoothing="0" prop_str_nodeName="MIDI Channel Constrainer (2)"
                prop_int_uiLastX="426" prop_int_uiLastY="489" prop_dbl_x="0.07690429687500000000"
@@ -1032,7 +1032,7 @@
                 hideInPresentationView="0" widgetIgnoresMouse="0" overrideName="1"
                 captionVisible="1" captionHeight="0.1166666666666667" reflectMIDI=""
                 reflectMIDIOn="0" midiThru="0" midiSource="" midiDevice="" midiData="0"
-                rigId="0" textColor="ffffffff" nodeId="37" paramIndex="1" widgetValue="0.4020000100135803"
+                rigId="0" textColor="ffffffff" nodeId="37" paramIndex="1" widgetValue="0.4979999959468842"
                 backPlate="11" backPlateVisible="1" invertMIDI="0" displayRange="2"
                 ignoresVariations="0" followHardware="0" relativeMode="0" enableDirectedOSC="0"
                 directedOSCAddressPattern="" directedOSCIPAddress="" directedOSCPort="9001"
@@ -1164,7 +1164,7 @@
                 hideInPresentationView="0" widgetIgnoresMouse="0" overrideName="1"
                 captionVisible="1" captionHeight="0.1166666666666667" reflectMIDI=""
                 reflectMIDIOn="0" midiThru="0" midiSource="" midiDevice="" midiData="0"
-                rigId="0" textColor="ffffffff" nodeId="37" paramIndex="9" widgetValue="0.5521235466003418"
+                rigId="0" textColor="ffffffff" nodeId="37" paramIndex="9" widgetValue="0.6316835284233093"
                 backPlate="11" backPlateVisible="1" invertMIDI="0" displayRange="2"
                 ignoresVariations="0" followHardware="0" relativeMode="0" enableDirectedOSC="0"
                 directedOSCAddressPattern="" directedOSCIPAddress="" directedOSCPort="9001"
@@ -1274,7 +1274,7 @@
                 hideInPresentationView="0" widgetIgnoresMouse="0" overrideName="1"
                 captionVisible="1" captionHeight="0.1166666666666667" reflectMIDI=""
                 reflectMIDIOn="0" midiThru="0" midiSource="" midiDevice="" midiData="23311"
-                rigId="0" textColor="ffffffff" nodeId="37" paramIndex="0" widgetValue="0.8149999976158142"
+                rigId="0" textColor="ffffffff" nodeId="37" paramIndex="0" widgetValue="1.0"
                 backPlate="11" backPlateVisible="1" invertMIDI="0" displayRange="2"
                 ignoresVariations="0" followHardware="0" relativeMode="0" enableDirectedOSC="0"
                 directedOSCAddressPattern="" directedOSCIPAddress="" directedOSCPort="9001"
@@ -1338,18 +1338,18 @@
       </RACKUNIT>
     </RACKVIEW>
     <PRESET name="Default" pcNumber="2105466">
-      <PARAM widgetId="32" value="0.4020000100135803" onLoadValue="0.7876448035240173"/>
+      <PARAM widgetId="32" value="0.4979999959468842" onLoadValue="0.7876448035240173"/>
       <PARAM widgetId="34" value="0.4480000138282776" onLoadValue="0.238999992609024"/>
       <PARAM widgetId="35" value="0.6756756901741028" onLoadValue="0.0"/>
       <PARAM widgetId="36" value="0.4289999902248383" onLoadValue="0.0"/>
       <PARAM widgetId="37" value="0.6293436288833618" onLoadValue="0.0"/>
       <PARAM widgetId="38" value="0.5868725776672363" onLoadValue="0.5"/>
-      <PARAM widgetId="39" value="0.5521235466003418" onLoadValue="0.5"/>
+      <PARAM widgetId="39" value="0.6316835284233093" onLoadValue="0.5"/>
       <PARAM widgetId="41" value="0.4580000042915344" onLoadValue="0.0"/>
       <PARAM widgetId="42" value="1.0" onLoadValue="1.0"/>
       <PARAM widgetId="43" value="1.0" onLoadValue="1.0"/>
       <PARAM widgetId="44" value="1.0" onLoadValue="1.0"/>
-      <PARAM widgetId="73" value="0.8149999976158142" onLoadValue="0.7450000047683716"/>
+      <PARAM widgetId="73" value="1.0" onLoadValue="0.7450000047683716"/>
       <PARAM widgetId="79" value="0.0" onLoadValue="1.0"/>
       <PARAM widgetId="82" value="0.6911196708679199" onLoadValue="1.0"/>
     </PRESET>
